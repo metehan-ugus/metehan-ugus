@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" role="img" aria-label="Game of YU — AI-driven RPG dialogue mockup">
+  <defs>
+    <linearGradient id="gy-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1410"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <radialGradient id="gy-glow" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#d97706" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#d97706" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="220" fill="url(#gy-bg)"/>
+  <rect width="400" height="220" fill="url(#gy-glow)"/>
+  <g transform="translate(80 50)" fill="#2a2a2a" stroke="#3a3a3a">
+    <circle cx="50" cy="30" r="18"/>
+    <path d="M20 100 Q20 60 50 60 Q80 60 80 100 Z"/>
+  </g>
+  <g transform="translate(140 130)">
+    <rect width="220" height="64" rx="6" fill="#161616" stroke="#3a3a3a"/>
+    <rect x="12" y="12" width="80" height="6" rx="3" fill="#d97706" fill-opacity="0.8"/>
+    <rect x="12" y="26" width="180" height="5" rx="2.5" fill="#3a3a3a"/>
+    <rect x="12" y="36" width="160" height="5" rx="2.5" fill="#3a3a3a"/>
+    <rect x="12" y="46" width="140" height="5" rx="2.5" fill="#2a2a2a"/>
+    <rect x="156" y="46" width="8" height="5" rx="1" fill="#d97706"/>
+  </g>
+  <g transform="translate(20 16)">
+    <rect width="120" height="6" rx="3" fill="#2a2a2a"/>
+    <rect width="84" height="6" rx="3" fill="#d97706"/>
+    <rect y="12" width="120" height="6" rx="3" fill="#2a2a2a"/>
+    <rect y="12" width="60" height="6" rx="3" fill="#6366f1" fill-opacity="0.7"/>
+  </g>
+</svg>
